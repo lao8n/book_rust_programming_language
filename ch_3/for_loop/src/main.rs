@@ -3,4 +3,5 @@ fn main() {
         println!("{}!", number);
     }
     println!("LIFTOFF!!!");
+    // for typically better than while loop 
 }
