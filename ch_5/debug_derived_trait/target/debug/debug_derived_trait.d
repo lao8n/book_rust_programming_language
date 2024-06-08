@@ -1,0 +1,1 @@
+C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_5\debug_derived_trait\target\debug\debug_derived_trait.exe: C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_5\debug_derived_trait\src\main.rs
