@@ -1,0 +1,1 @@
+C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_10\trait_default\target\debug\libtrait_default.rlib: C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_10\trait_default\src\lib.rs
