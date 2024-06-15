@@ -1,0 +1,1 @@
+C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_10_generics\lifetime_static\target\debug\lifetime_static.exe: C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_10_generics\lifetime_static\src\main.rs
