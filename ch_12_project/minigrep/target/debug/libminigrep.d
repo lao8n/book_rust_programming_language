@@ -1,0 +1,1 @@
+C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_12_project\minigrep\target\debug\libminigrep.rlib: C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_12_project\minigrep\src\lib.rs
