@@ -1,0 +1,1 @@
+C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_14_cargo\project\target\debug\project.exe: C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_14_cargo\project\src\main.rs
