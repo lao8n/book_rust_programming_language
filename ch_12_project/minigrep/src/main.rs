@@ -8,8 +8,7 @@ use std::process;
 use minigrep::Config;
 
 fn main() {
-    let args: Vec<String> = env::args().collect(); // collect makes iterator into vector
-    let config = Config::build(&args).unwrap_or_else(|err| { // closure
+    let config = Config::build(env::args()).unwrap_or_else(|err| { // closure
         eprintln!("Problem parsing arguments: {err}"); // eprintln macro that prints to standard error stream
         process::exit(1);
     });

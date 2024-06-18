@@ -1,0 +1,1 @@
+Iterators are zero-cost abstractions with same perofrmance as for loop 

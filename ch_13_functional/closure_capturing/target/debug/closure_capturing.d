@@ -1,0 +1,1 @@
+C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_13_functional\closure_capturing\target\debug\closure_capturing.exe: C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_13_functional\closure_capturing\src\main.rs
