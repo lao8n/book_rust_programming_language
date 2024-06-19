@@ -1,0 +1,1 @@
+C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_14_cargo\workspace\target\debug\libadd_one.rlib: C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_14_cargo\workspace\add_one\src\lib.rs
