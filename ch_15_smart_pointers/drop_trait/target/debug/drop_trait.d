@@ -1,0 +1,1 @@
+C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_15_smart_pointers\drop_trait\target\debug\drop_trait.exe: C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_15_smart_pointers\drop_trait\src\main.rs

@@ -1,0 +1,1 @@
+C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_15_smart_pointers\box_recursive\target\debug\box_recursive.exe: C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_15_smart_pointers\box_recursive\src\main.rs
