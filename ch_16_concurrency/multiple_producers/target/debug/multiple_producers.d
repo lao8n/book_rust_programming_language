@@ -1,0 +1,1 @@
+C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_16_concurrency\multiple_producers\target\debug\multiple_producers.exe: C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_16_concurrency\multiple_producers\src\main.rs

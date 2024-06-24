@@ -1,0 +1,1 @@
+C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_16_concurrency\channel\target\debug\channel.exe: C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_16_concurrency\channel\src\main.rs
