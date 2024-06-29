@@ -1,0 +1,1 @@
+C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_19_advanced\fully_qualified_syntax\target\debug\fully_qualified_syntax.exe: C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_19_advanced\fully_qualified_syntax\src\main.rs

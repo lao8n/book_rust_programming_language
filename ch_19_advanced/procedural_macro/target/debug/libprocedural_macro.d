@@ -1,0 +1,1 @@
+C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_19_advanced\procedural_macro\target\debug\libprocedural_macro.rlib: C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_19_advanced\procedural_macro\src\lib.rs
