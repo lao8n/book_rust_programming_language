@@ -1,0 +1,1 @@
+C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_20_project\hello\target\debug\libhello.rlib: C:\Users\lao8n\OneDrive\Documents\book_rust_programming_language\ch_20_project\hello\src\lib.rs
